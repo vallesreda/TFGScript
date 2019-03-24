@@ -29,7 +29,7 @@ sudo npm install jasmine-marbles@0.4.1
 sudo rm -r -f toh
 # copy from GIT application lastest version
 git clone https://github.com/vallesreda/toh.git
-git clone https://github.com/vallesreda/TFGScript.git
+git clone https://github.com/vallesreda/TFGpipeline.git
 #Builds and serves your app, rebuilding on file changes.
 # application folder
 #cd toh
